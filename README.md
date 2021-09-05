@@ -18,8 +18,19 @@ Using unsupervised learning, this project makes sense of the unlclassified datas
 Following the classification of the performance, this project presents visualizations to trend the performance over time.<br> 
 
 #### Project layout:
-The layout of this project is show below.
-<p><a href="tree.txt"><img src="img/project_tree.png" title="ml-performance-clusting project"></a></p>
+The layout of this project is show below.<br>
+.<br>
+├── crypto_investments.ipynb<br>
+├── data<br>
+│   └── crypto_market_data.csv<br>
+├── img<br>
+│   ├── crypto-performance-clustering.png<br>
+│   └── elbow-plot.png<br>
+│   └── project_tree.png<br>
+├── LICENSE<br>
+├── README.md<br>
+├── requirements.txt<br>
+└── tree.txt<br>
 
 ***
 ## <a id="Technologies-Resources">Technologies and Resources</a>
