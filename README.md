@@ -56,8 +56,9 @@ This tool provides several necessary visualizations for Cryptocurrency performan
 <img src="img/elbow-plot.png" title="elbow plot"><br>
 These inertia plots allow us to measure the distribution of the data within a cluster given the K values.<br>
 
-2. Scatter plots of both the original dataset and the PCA clusters following dimensionality reduction:
-<img src="img/crypto-performance-clustering.png" title="crypto performance clustering">
+2. Scatter plots of both the original dataset and the PCA clusters following dimensionality reduction:<br>
+<img src="img/crypto-performance-clustering.png" title="crypto performance clustering"><br>
+
 ***
 ## <a id="Contributors">Contributors</a>
 Currently just me :)<br>
